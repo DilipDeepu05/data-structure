@@ -1,6 +1,4 @@
-# data-structure
-
-Practice data Structure
+# Practice data Structure
 ---------------------------------
  1. Stack
  2. Queue
